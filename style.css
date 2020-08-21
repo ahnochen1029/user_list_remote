@@ -1,0 +1,72 @@
+header{
+  background-color: #003155;
+}
+
+body{
+  background-color: #00758F;
+}
+
+
+.card{
+  height: auto;
+  margin-bottom: 20px;
+  border-radius:8px;
+  background-color: #007BA7;
+  border: 1px solid white;
+}
+.card-img-top{
+  margin: 10px auto 0 auto;
+  width: 90%;
+  border-radius: 8px;
+}
+
+.modal-content{
+  background-color:#FFAC00;
+}
+
+#user-avator img{
+  border-radius: 120px;
+}
+
+
+.search{
+  display: flex;
+  margin: 2px;
+}
+
+#search-form{
+  margin-right: 30px;
+}
+
+.fa{
+  color: #16235A;
+}
+.fa:hover {
+  transform : scale(1.1);
+  color: #778FA8;
+}
+
+.icon-favorite:hover{
+  color: #FFAC00;
+}
+#favoriteMode{
+  color: #16235A;
+}
+#favoriteMode:hover{
+  transform : scale(1.1);
+  color: #778FA8;
+}
+
+
+
+#icons{
+  margin-bottom: 35px;
+}
+.list-btn{
+  justify-content: end;
+  margin: auto;
+  width: 35px;
+}
+.icon-favorite{
+  color: #EDD59E;
+}
